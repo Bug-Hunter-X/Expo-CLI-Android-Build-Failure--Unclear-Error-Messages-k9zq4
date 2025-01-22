@@ -1,0 +1,1 @@
+This repository contains an example of an unclear error encountered during an Expo CLI Android build. The main issue is the lack of informative error messages, hindering the debugging process.  The `expoBug.js` file demonstrates a scenario that might lead to such an error, while `expoBugSolution.js` provides potential solutions or workarounds.
